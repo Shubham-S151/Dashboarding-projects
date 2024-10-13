@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed on your machine:
 2. Install required packages:
 - pip install -r requirements.txt
 
-Usage
+### Usage
 To run the dashboard:
 python app.py
 Visit http://localhost:8050 in your web browser to view the dashboard.
