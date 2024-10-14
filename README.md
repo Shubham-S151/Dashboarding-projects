@@ -28,8 +28,5 @@ Visit http://localhost:8050 in your web browser to view the dashboard.
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-License
-This project is licensed under the [Your License Name]. See the LICENSE file for details.
-
 Acknowledgments
 - TABLEAU
