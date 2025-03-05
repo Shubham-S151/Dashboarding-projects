@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed on your machine:
 ## Installation
 #### Clone the repository:
 1. Copy code: 
-- git clone https://github.com/yourusername/dashboarding-repo.git
+- git clone https://github.com/Shubham-S151/dashboarding-repo.git
   cd dashboarding-repo
 2. Install required packages:
 - pip install -r requirements.txt
